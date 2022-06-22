@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+.big-banner{
+    background-image: url("bgwall.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.sayfaH{
+    height: 100px;
+}
+
+.metin{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+}
